@@ -1,0 +1,78 @@
+.main {
+  width: 26%;
+  margin-top: 40px;
+  margin-left: 37%;
+  background-color: rgb(248, 229, 245);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px;
+}
+
+.logo {
+  align-self: center;
+  margin-left: 0px;
+  margin-left: 20%;
+}
+
+.main h5 {
+  font-size: 19pt;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 25px;
+  margin-left: 5%;
+}
+
+.link {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+}
+
+.rlink {
+  font-size: 11pt;
+  margin-top: 15px;
+  text-align: center;
+  margin-left: 15px;
+}
+
+.label {
+  font-size: 13pt;
+  font-weight: 300;
+  margin-bottom: 10px;
+  margin-left: 5%;
+}
+
+.main input {
+  height: 30px;
+  width: 90%;
+  border-radius: 10px;
+  border: 1px;
+  margin-left: 5%;
+}
+
+.info {
+  font-size: 10pt;
+  font-weight: 300;
+  margin-left: 5%;
+}
+
+.main button {
+  align-self: center;
+  height: 35px;
+  width: 90%;
+  border-radius: 10px;
+  border: 1px;
+  background-color: rgb(221, 71, 209);
+  margin-left: 5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16pt;
+  font-weight: 900;
+  color: white;
+}
+
+.frgt {
+  margin-left: 70%;
+  width: fit-content;
+}

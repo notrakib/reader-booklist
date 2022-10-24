@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(248, 229, 245);
+  height: 70px;
+}
+
+.link {
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  justify-content: space-around;
+  margin-right: 20px;
+}
+
+.link a {
+  font-size: 20pt;
+  font-weight: 400;
+  align-self: center;
+  text-decoration: none;
+  color: rgb(221, 71, 209);
+}

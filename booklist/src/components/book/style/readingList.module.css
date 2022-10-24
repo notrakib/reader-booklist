@@ -1,0 +1,24 @@
+.main h3 {
+  font-size: 19pt;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10%;
+}
+
+.page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 15%;
+  margin-left: 10%;
+}
+
+.page button {
+  width: 25px;
+  height: 25px;
+  border: 1px solid rgb(207, 124, 195);
+  text-align: center;
+  padding-top: 3px;
+  background-color: rgb(248, 229, 245);
+}

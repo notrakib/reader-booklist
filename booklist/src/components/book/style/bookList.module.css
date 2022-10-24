@@ -1,0 +1,27 @@
+.main h3 {
+  font-size: 19pt;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 10%;
+}
+
+.add {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.add button {
+  align-self: center;
+  background-color: rgb(188, 240, 229);
+  height: 35px;
+  width: 130px;
+  border: 2px rgb(221, 71, 209) solid;
+  color: rgb(221, 71, 209);
+  border-radius: 3px;
+  padding: 0px;
+  font-size: 13pt;
+  font-weight: 600;
+  margin-right: 10%;
+}

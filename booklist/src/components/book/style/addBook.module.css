@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 13pt;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.main input {
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding-left: 20px;
+}
+.main button {
+  align-self: flex-end;
+  height: 35px;
+  width: 15%;
+  border-radius: 10px;
+  border: 1px;
+  background-color: rgb(221, 71, 209);
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 9pt;
+  font-weight: 900;
+  color: white;
+}
