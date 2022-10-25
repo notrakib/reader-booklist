@@ -54,7 +54,7 @@ const SignIn = () => {
       <input type="password" ref={pswd}></input>
 
       <div className={classes.frgt}>
-        <NavLink to="/sign-up">
+        <NavLink to="/forgot-password">
           <p className={classes.rlink}>Forgot password</p>
         </NavLink>
       </div>
